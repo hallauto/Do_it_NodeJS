@@ -1,0 +1,22 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "example1",
+  "main": "index.js",
+  "dependencies": {
+    "nconf": "^0.10.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "Do_it_NodeJS"
+  },
+  "keywords": [
+    "Do_it_NodeJS"
+  ],
+  "author": "hallauto",
+  "license": "ISC"
+}
